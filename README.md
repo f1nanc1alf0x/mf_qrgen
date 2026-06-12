@@ -1,5 +1,5 @@
 # 🔲 Generador de QR desde CSV
-## Este codigo fue generado enteramente mediante vibecoding en claude.ai y puede(muy probablemente) contener errores.
+## Este codigo fue generado enteramente mediante vibecoding en claude.ai y puede(muy probablemente, no confia en la ia) contener errores.
 
 Herramienta de línea de comandos para generar códigos QR en lote a partir de un archivo CSV.
 Disponible como **script Python** o como **ejecutable `.exe` para Windows** (sin instalar nada).
